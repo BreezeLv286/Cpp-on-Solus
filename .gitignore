@@ -1,0 +1,9 @@
+# Compiled binaries
+month_days
+*.o
+*.out
+a.out
+
+# Editor backup files
+*~
+*.swp
